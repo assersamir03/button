@@ -8,3 +8,8 @@ body
     background-color: rgb(136, 135, 138);
     font-family: sans-serif;
 }
+.btn
+{
+    background-color: blueviolet;
+    padding: 20px 40px;
+}
