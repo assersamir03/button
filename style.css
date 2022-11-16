@@ -17,3 +17,7 @@ body
     text-decoration: none;
     color: black;
 }
+.btn::before
+{
+    content: "";
+}
