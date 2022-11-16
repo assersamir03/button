@@ -33,7 +33,7 @@ body
     height: 0px;
     left: var(--xpos);
     top: var(--ypos);
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
     border-radius: 50%;
     transition: width 0.5s,hight 0.5s;
 }
