@@ -22,4 +22,7 @@ body
 {
     content: "";
     position: absolute;
+    background-color: orangered;
+    width: 20px;
+    height: 20px;
 }
